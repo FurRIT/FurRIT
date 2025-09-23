@@ -2,7 +2,7 @@
 
 For questions and inquiries, please contact a **FurRIT SysAdmin** within telegram.
 
-Active SysAdmins:
+Active:
 
     Torin Sol (TG Bot Backend Admin)
     Sparks Folfy (Website Dev & SysAdmin)
