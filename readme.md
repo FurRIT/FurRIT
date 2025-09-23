@@ -2,6 +2,8 @@
 
 For questions and inquiries, please contact a **FurRIT SysAdmin** within telegram.
 
+Please note that not all repo's are public.
+
 Active:
 
     Torin Sol (TG Bot Backend Admin)
