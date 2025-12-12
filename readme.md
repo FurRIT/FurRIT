@@ -7,8 +7,8 @@ Please note that not all repo's are public.
 Active:
 
     Torin Sol (TG Bot Backend Admin)
-    Sparks Folfy (Website Dev & SysAdmin)
-    Mickey (TG Bot Frontend JS Dev/Admin)
+    Sparks Folfy (Platform Engineer SysAdmin | Website Dev)
+    Mickey (TG Bot Frontend JS Dev/Admin | Website Dev)
     Aech (TG/DC Bot Frontend JS Dev/Admin)
 
 Retired:
