@@ -6,13 +6,12 @@ Please note that not all repo's are public.
 
 Active:
 
-    Torin Sol (TG Bot Backend Admin)
     Sparks Folfy (Platform Engineer SysAdmin | Website Dev)
-    Mickey (TG Bot Frontend JS Dev/Admin | Website Dev)
+    Torin Sol (TG Bot Backend Admin)
     Aech (TG/DC Bot Frontend JS Dev/Admin)
 
 Retired:
 
+    Mickey (TG Bot Frontend JS Dev/Admin | Website Dev)
     Adrian Hyena
     Fancy Fox / DandyLion
-
